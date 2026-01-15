@@ -20,7 +20,7 @@ public class Controller {
      * Birtir texta sem viðbragð við atburði frá hnappi
      */
     protected void onHelloButtonClick() {
-        welcomeText.setText("Welcome to JavaFX Application!");
+        welcomeText.setText("Halló Freydís!");
     }
 }
 

@@ -17,20 +17,20 @@
         <javafx.version>25.0.1</javafx.version>
         <java.release>25</java.release>
     </properties>
-<!-- Hvaða forritasöfn þarf að nota
-    -->
-<dependencies>
-    <dependency>
-        <groupId>org.openjfx</groupId>
-        <artifactId>javafx-controls</artifactId>
-        <version>${javafx.version}</version>
-    </dependency>
-    <dependency>
-        <groupId>org.openjfx</groupId>
-        <artifactId>javafx-fxml</artifactId>
-        <version>${javafx.version}</version>
-    </dependency>
-</dependencies>
+    <!-- Hvaða forritasöfn þarf að nota
+        -->
+    <dependencies>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-controls</artifactId>
+            <version>${javafx.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-fxml</artifactId>
+            <version>${javafx.version}</version>
+        </dependency>
+    </dependencies>
     <!-- Keyrslan -->
     <build>
         <plugins>
