@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2198b523-04b7-46b6-a386-e6367636300a" name="Changes" comment="RegionDaemi rest">
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika1/HalloHeimur/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika1/HalloHeimur/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika1/HalloHeimur/src/main/resources/vidmot/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika1/HalloHeimur/src/main/resources/vidmot/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika1/kafli1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika1/kafli1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika1/kafli1/src/main/resources/is/vidmot/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika1/kafli1/src/main/resources/is/vidmot/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/GridpaneDaemi/src/main/java/is/vidmot/GridPaneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/GridpaneDaemi/src/main/java/is/vidmot/GridPaneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/GridpaneGrow/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/GridpaneGrow/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/HBox og VBox/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/HBox og VBox/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/HBox og VBox/src/main/resources/vidmot/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/HBox og VBox/src/main/resources/vidmot/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/Heilsa/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/Heilsa/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/Heilsa/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/Heilsa/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/Heilsa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/Heilsa/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/Heilsa/src/main/java/is/vidmot/Adal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/Heilsa/src/main/java/is/vidmot/Adal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/Heilsa/src/main/java/is/vidmot/HeilsaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/Heilsa/src/main/java/is/vidmot/HeilsaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/Heilsa/src/main/resources/is/vidmot/Heilsa.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/Heilsa/src/main/resources/is/vidmot/Heilsa.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/HeilsaVinnsla/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/HeilsaVinnsla/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/HeilsaVinnsla/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/HeilsaVinnsla/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/myshapesfxml/src/main/java/org/modernclient/ShapeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/myshapesfxml/src/main/java/org/modernclient/ShapeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BreytaBorder/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BreytaBorder/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BreytaBorderCSS/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BreytaBorderCSS/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BreytaBorderCSS/src/main/java/vidmot/breytaborder/BorderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BreytaBorderCSS/src/main/java/vidmot/breytaborder/BorderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BreytaBorderCSS/src/main/resources/vidmot/breytaborder/border-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../BreytaBorderCSS/src/main/resources/vidmot/breytaborder/border-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSSdaemi/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSSdaemi/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSSdaemi/src/main/resources/is/vidmot/css/EinfaldurCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CSSdaemi/src/main/resources/is/vidmot/css/EinfaldurCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidmot/ShapeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidmot/ShapeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/vidmot/vidmot.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/vidmot/vidmot.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika4/BindImage/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika4/BindImage/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika4/BindImage/src/main/resources/vidmot/CSS/bindimage.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika4/BindImage/src/main/resources/vidmot/CSS/bindimage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika4/BooleanBinding/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika4/BooleanBinding/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika4/BooleanBinding/src/main/java/vidmot/AudioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika4/BooleanBinding/src/main/java/vidmot/AudioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika4/BooleanBinding/src/main/java/vinnsla/Audio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika4/BooleanBinding/src/main/java/vinnsla/Audio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika4/SynidaemiBindHnappur/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika4/SynidaemiBindHnappur/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika4/SynidaemiBindHnappur/src/main/java/vidmot/FXMLDocumentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika4/SynidaemiBindHnappur/src/main/java/vidmot/FXMLDocumentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika4/SynidaemiBindVidmotVinnsla/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika4/SynidaemiBindVidmotVinnsla/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika4/SynidaemiChangeListener/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika4/SynidaemiChangeListener/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Hvannberg&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Hvannberg/HBV201G-2023.git&quot;,
+    &quot;accountId&quot;: &quot;3e59bbea-8efb-4537-855e-bfa4f688715c&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+        <option name="useMavenConfig" value="false" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2KTFkzFsv7fLkMaqynQ1TQKOzoz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.RegionDaemi [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RegionDaemi [deploy].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RegionDaemi [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RegionDaemi [org.openjfx:javafx-maven-plugin:0.0.8:run].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Assembly&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ebba/OneDrive - Háskóli Íslands/Viðmótsforritun 2025/Verkefni minni/Verkefni 3&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ebba\OneDrive - Háskóli Íslands\Viðmótsforritun 2023\Vika3\RegionDaemi\src\main\java\is\vidmot" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ebba\OneDrive - Háskóli Íslands\Viðmótsforritun 2024\HBV201G-forrit\Vika3\RegionDaemi\src\main\resources\vidmot\PNG" />
+      <recent name="C:\Users\ebba\OneDrive - Háskóli Íslands\Viðmótsforritun 2023\Vika3\RegionDaemi\src\main\resources\is\vidmot" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2198b523-04b7-46b6-a386-e6367636300a" name="Changes" comment="" />
+      <created>1673990817483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673990817483</updated>
+    </task>
+    <task id="LOCAL-00001" summary="færsla á css">
+      <created>1705859076801</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705859076801</updated>
+    </task>
+    <task id="LOCAL-00002" summary="RegionDaemi o.fl.">
+      <created>1705859658683</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705859658683</updated>
+    </task>
+    <task id="LOCAL-00003" summary="RegionDaemi rest">
+      <created>1705863541705</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705863541705</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="færsla á css" />
+    <MESSAGE value="RegionDaemi o.fl." />
+    <MESSAGE value="RegionDaemi rest" />
+    <option name="LAST_COMMIT_MESSAGE" value="RegionDaemi rest" />
+  </component>
+</project>
