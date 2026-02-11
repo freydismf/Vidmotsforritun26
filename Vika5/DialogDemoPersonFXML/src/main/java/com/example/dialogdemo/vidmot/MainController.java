@@ -11,9 +11,6 @@ import java.util.Optional;
 
 public class MainController {
 
-
-    public BorderPane root;
-
     @FXML
     private ListView<String> listView; // Hér hefði mátt setja ListView<Person>
 
@@ -23,7 +20,7 @@ public class MainController {
         Optional<Person> result = personDialog.showAndWait();
         if (result.isPresent()) {
             Person person = result.get();
-            listView.getItems().add(person.getFirstName() + " " + person.getLastName());
+            listView.getItems().add(person+"");
         }
     }
 }

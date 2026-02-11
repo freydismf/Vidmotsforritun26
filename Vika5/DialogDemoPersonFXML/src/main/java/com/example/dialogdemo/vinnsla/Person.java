@@ -61,4 +61,13 @@ public class Person {
         return lastName.get();
     }
 
+
+    /**
+     * Skilar streng sem lýsir hlutnum
+     * @return lýsandi strengur fyrir hlutinn
+     */
+    @Override
+    public String toString() {
+        return firstNameProperty().get() + " "+ lastNameProperty().get();
+    }
 }
