@@ -71,6 +71,17 @@
                             <noHeaderFiles>true</noHeaderFiles>
                         </configuration>
                     </execution>
+                    <execution>
+                        <id>debug</id>
+                        <configuration>
+                            <options>
+                                <option>
+                                    -agentlib:jdwp=transport=dt_socket,server=y,address=localhost:5005,suspend=y
+                                </option>
+                            </options>
+                            <mainClass>com.example.dialogdemo/com.example.dialogdemo.vidmot.Main</mainClass>
+                        </configuration>
+                    </execution>
                 </executions>
             </plugin>
         </plugins>
