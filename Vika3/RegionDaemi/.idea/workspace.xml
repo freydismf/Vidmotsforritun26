@@ -5,43 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2198b523-04b7-46b6-a386-e6367636300a" name="Changes" comment="RegionDaemi rest">
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika1/HalloHeimur/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika1/HalloHeimur/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika1/HalloHeimur/src/main/resources/vidmot/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika1/HalloHeimur/src/main/resources/vidmot/hello-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika1/kafli1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika1/kafli1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika1/kafli1/src/main/resources/is/vidmot/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika1/kafli1/src/main/resources/is/vidmot/hello-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika2/GridpaneDaemi/src/main/java/is/vidmot/GridPaneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/GridpaneDaemi/src/main/java/is/vidmot/GridPaneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/Vidmotsforritun26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vika1/HalloHeimurJavaFX/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika1/HalloHeimurJavaFX/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika1/HalloHeimurJavaFX/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Vika2/GridpaneGrow/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/GridpaneGrow/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika2/HBox og VBox/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/HBox og VBox/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika2/HBox og VBox/src/main/resources/vidmot/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/HBox og VBox/src/main/resources/vidmot/sample.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika2/Heilsa/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/Heilsa/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika2/Heilsa/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/Heilsa/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika2/Heilsa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/Heilsa/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika2/Heilsa/src/main/java/is/vidmot/Adal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/Heilsa/src/main/java/is/vidmot/Adal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika2/Heilsa/src/main/java/is/vidmot/HeilsaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/Heilsa/src/main/java/is/vidmot/HeilsaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika2/Heilsa/src/main/resources/is/vidmot/Heilsa.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/Heilsa/src/main/resources/is/vidmot/Heilsa.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika2/HeilsaVinnsla/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/HeilsaVinnsla/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika2/HeilsaVinnsla/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/HeilsaVinnsla/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika2/myshapesfxml/src/main/java/org/modernclient/ShapeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/myshapesfxml/src/main/java/org/modernclient/ShapeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BreytaBorder/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BreytaBorder/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/GridpaneGrow/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/GridpaneGrow/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/HBox og VBox/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/HBox og VBox/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/HBox/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/HBox/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/HBox/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/HBox/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/Heilsa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/Heilsa/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/HeilsaVinnsla/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/HeilsaVinnsla/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/SamaBreidd/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/SamaBreidd/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vika2/myshapesfxml/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika2/myshapesfxml/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BreytaBorderCSS/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BreytaBorderCSS/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BreytaBorderCSS/src/main/java/vidmot/breytaborder/BorderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BreytaBorderCSS/src/main/java/vidmot/breytaborder/BorderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BreytaBorderCSS/src/main/resources/vidmot/breytaborder/border-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../BreytaBorderCSS/src/main/resources/vidmot/breytaborder/border-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSSdaemi/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSSdaemi/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSSdaemi/src/main/resources/is/vidmot/css/EinfaldurCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CSSdaemi/src/main/resources/is/vidmot/css/EinfaldurCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vidmot/ShapeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidmot/ShapeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/vidmot/vidmot.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/vidmot/vidmot.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika4/BindImage/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika4/BindImage/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika4/BindImage/src/main/resources/vidmot/CSS/bindimage.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika4/BindImage/src/main/resources/vidmot/CSS/bindimage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika4/BooleanBinding/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika4/BooleanBinding/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika4/BooleanBinding/src/main/java/vidmot/AudioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika4/BooleanBinding/src/main/java/vidmot/AudioController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika4/BooleanBinding/src/main/java/vinnsla/Audio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika4/BooleanBinding/src/main/java/vinnsla/Audio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika4/SynidaemiBindHnappur/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika4/SynidaemiBindHnappur/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika4/SynidaemiBindHnappur/src/main/java/vidmot/FXMLDocumentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika4/SynidaemiBindHnappur/src/main/java/vidmot/FXMLDocumentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika4/SynidaemiBindVidmotVinnsla/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika4/SynidaemiBindVidmotVinnsla/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vika4/SynidaemiChangeListener/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vika4/SynidaemiChangeListener/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +67,6 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2KTFkzFsv7fLkMaqynQ1TQKOzoz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -94,10 +79,14 @@
     &quot;Maven.RegionDaemi [org.openjfx:javafx-maven-plugin:0.0.8:run].executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Assembly&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ebba/OneDrive - Háskóli Íslands/Viðmótsforritun 2025/Verkefni minni/Verkefni 3&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/freyd/OneDrive/Documents/V26/Vidmotsforritun/Vidmotsforritun26/Vika3/RegionDaemi&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -109,6 +98,14 @@
       <recent name="C:\Users\ebba\OneDrive - Háskóli Íslands\Viðmótsforritun 2023\Vika3\RegionDaemi\src\main\resources\is\vidmot" />
     </key>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -117,6 +114,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673990817483</updated>
+      <workItem from="1770058407356" duration="316000" />
+      <workItem from="1770076449310" duration="1000" />
+      <workItem from="1770222212684" duration="28000" />
+      <workItem from="1770236599957" duration="636000" />
     </task>
     <task id="LOCAL-00001" summary="færsla á css">
       <created>1705859076801</created>
@@ -141,6 +142,9 @@
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
