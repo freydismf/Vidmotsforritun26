@@ -1,0 +1,6 @@
+.dyrspjald{
+-fx-border-color: GREEN
+}
+.dyrspjald:hover{
+-fx-border-color: RED
+}

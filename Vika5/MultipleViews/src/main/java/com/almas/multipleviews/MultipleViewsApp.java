@@ -18,7 +18,7 @@ public class MultipleViewsApp extends Application {
         ViewSwitcher.setScene(scene);
 
         // skiptum yfir í viðmótstré fyrir LOGIN
-        ViewSwitcher.switchTo(View.LOGIN);
+        ViewSwitcher.switchTo(View.LOGIN, true);
 
         // tengjum senuna við gluggann
         stage.setScene(scene);

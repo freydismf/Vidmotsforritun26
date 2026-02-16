@@ -10,52 +10,82 @@ import java.util.Map;
 
 /**
  * @author Almas Baimagambetov (almaslvl@gmail.com)
+ * <p>
+ * EÞH - Breytt til að gera cache og controllers og að setja gögn eftir
+ * að búið er að hlaða inn view
  */
 public class ViewSwitcher {
 
     private static final Map<View, Parent> cache = new HashMap<>();
+    // viðbót fyrir controllers
+    private static final Map<View, Object> controllerCache = new HashMap<>();
 
     private static Scene scene;
 
     /**
-     * Setur núverandi senu í ViewSwitcher sem scene - enginn breyting á glugga
+     * setur scenuna scene
      *
-     * @param scene senan
+     * @param scene
      */
     public static void setScene(Scene scene) {
         ViewSwitcher.scene = scene;
     }
 
+
     /**
-     * Skipta yfir í viðmótstré sem er lýst í view
+     * Skiptir yfir viðmótstré í senunni, cache er true og engin gagnaflutningur
      *
-     * @param view nafn á .fxml skrá
+     * @param view    rót viðmótstrésins
      */
-    public static void switchTo(View view) {
+        public static void  switchTo(View view) {
+            switchTo(view, true, null);
+    }
+
+
+    /**
+     * Skiptir yfir viðmótstré í senunni, enginn gagnaflutningur
+     *
+     * @param view    rót viðmótstrésins
+     * @param isCache á að nota skyndiminni
+     */
+    public static void  switchTo(View view, boolean isCache) {
+        switchTo(view, isCache, null);
+    }
+
+    /**
+     * Skiptir yfir viðmótstré í senunni
+     *
+     * @param view    rót viðmótstrésins
+     * @param isCache á að nota skyndiminni
+     * @param hlutur gögnin sem á að setja inn í controllerinn
+     */
+    public static void switchTo(View view, boolean isCache, Object hlutur) {
         if (scene == null) {
             System.out.println("No scene was set");
             return;
         }
-
         try {
             Parent root;
-            // fletta upp í skyndiminni
-            if (cache.containsKey(view)) {
-                  root = cache.get(view);
-                // annars lesa úr .fxml skrá
+            Object controller;
+            if (cache.containsKey(view) && isCache) {
+                System.out.println("Loading from cache");
+                root = cache.get(view);
+                controller = controllerCache.get(view);
             } else {
-                System.out.println("Loading from FXML");
-                // lesa inn .fxml skrána og rótin á viðmótstrénu verður root
-                root = FXMLLoader.load(
-                        ViewSwitcher.class.getResource(view.getFileName())
-                );
-                // geyma í skyndiminni - tengja saman view og root
-                cache.put(view, root);
+                System.out.println("Loading from FXML " + view.getFileName());
+                FXMLLoader loader = new FXMLLoader(ViewSwitcher
+                        .class.getResource(view.getFileName()));
+                root = loader.load();
+                controller = loader.getController();
+                if (isCache) {
+                    cache.put(view, root);
+                    controllerCache.put(view, loader.getController());
+                }
             }
-
-            // setja rótina í núverandi senu
+            if (controller instanceof GognInterface) {
+                ((GognInterface) controller).setGogn(hlutur);
+            }
             scene.setRoot(root);
-
         } catch (IOException e) {
             e.printStackTrace();
         }

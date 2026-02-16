@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.media.*?>
+
+<BorderPane xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="is.mediademo.MediaDemoController">
+<center>
+      <StackPane fx:id="fxStackPane">
+         <children>
+        <MediaView fx:id="fxMediaView" fitHeight="400" fitWidth="650" preserveRatio="true" />
+         </children>
+      </StackPane>
+</center>
+<bottom>
+      <VBox alignment="CENTER" spacing="10.0">
+         <children>
+            <Button alignment="CENTER" mnemonicParsing="false" onAction="#onOpenVideo" prefHeight="25.0" prefWidth="173.0" text="Velja myndskeið" />
+        <HBox alignment="CENTER" prefHeight="32.0" prefWidth="173.0" spacing="10">
+          <Button onAction="#playPauseAction" text="||" />
+          <Button onAction="#rewindAction" text="&lt;&lt;" />
+          <Label text="Volume" />
+          <Slider fx:id="fxSlVolume" maxWidth="30" prefWidth="150" value="50" />
+        </HBox>
+         </children>
+      </VBox>
+</bottom>
+</BorderPane>
