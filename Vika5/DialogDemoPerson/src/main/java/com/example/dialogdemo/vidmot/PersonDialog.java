@@ -60,7 +60,7 @@ public class PersonDialog extends Dialog<Person> {
 				return true;
 			}
 		});
-		getDialogPane().expandableContentProperty().set(new Label("This is the expandable ontent area"));
+		getDialogPane().expandableContentProperty().set(new Label("This is the expandable content area"));
 		getDialogPane().setExpanded(true);
 	}
 
